@@ -2,7 +2,7 @@
 
 This project is a comprehensive Library Management System developed using SAP ABAP. It provides functionalities for managing books, student registrations, login authentication, and book transactions (issuing and returning).
 
-## 📖 Project Overview 
+## 📖 Project Overview  
 
 The **Library Management System** is designed to streamline the operations of a library. It allows students to search for books, borrow them, return them, and manage their profiles. Administrators (or the system logic) can track book availability and manage user data.
 
