@@ -9,7 +9,7 @@ The **Library Management System** is designed to streamline the operations of a 
 ## ✨ Key Features
 
 *   **User Authentication**: secure login system for students/users.
-*   **Registration**: Multi-step registration process for new users including personal details.
+*   **Registration**: Multi-step registration process for new users including personal details. 
 *   **Search Books**: Functionality to search for books by name or author.
 *   **Issue Book (Get Book)**: Allows students to borrow books from the library.
 *   **Return Book**: Logic to handle the return of borrowed books.
