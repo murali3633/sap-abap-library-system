@@ -14,7 +14,7 @@ The **Library Management System** is designed to streamline the operations of a 
 *   **Issue Book (Get Book)**: Allows students to borrow books from the library.
 *   **Return Book**: Logic to handle the return of borrowed books.
 *   **Profile Management**: Students can view and update their personal information.
-*   **Book History**: View history of borrowed books.
+*   **Book History**: View history of borrowed books. 
 
 ## 🛠️ Technical Specifications
 
