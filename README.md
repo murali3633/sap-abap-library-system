@@ -7,7 +7,7 @@ This project is a comprehensive Library Management System developed using SAP AB
 The **Library Management System** is designed to streamline the operations of a library. It allows students to search for books, borrow them, return them, and manage their profiles. Administrators (or the system logic) can track book availability and manage user data.
  
 ## ✨ Key Features
-
+ 
 *   **User Authentication**: secure login system for students/users.
 *   **Registration**: Multi-step registration process for new users including personal details. 
 *   **Search Books**: Functionality to search for books by name or author.
